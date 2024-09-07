@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">bodymass index</string>
+    <string name="body_mass_index_is">Body mass index is %1$s</string>
+    <string name="enter_your_weight">Enter your weight</string>
+    <string name="enter_your_height">Enter your height</string>
+    <string name="body_mass_index">Body Mass Index</string>
+
+</resources>
